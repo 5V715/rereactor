@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=dev.silas.rereactor.ReReactorCacheConfiguration, dev.silas.rereactor.CacheWrapperConfiguration
